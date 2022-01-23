@@ -4,22 +4,13 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b><u>Hey {}!!</b><u>
+<i>Am Just A Advance Auto Filter Bot For Minnal Movies....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
-For More Details Click Help Button Below..
-@CrazyBotsz
-</i>"""    
+Please Dont Add Me to your Groups...PLease Dont
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
-
-<i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
-</i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
 
@@ -42,8 +33,7 @@ For More Details Click Help Button Below..
             -> <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
-            
-@CrazyBotsz
+           
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
